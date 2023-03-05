@@ -1,6 +1,5 @@
-# Device Tree for 10or G (codenamed _"holland2"_)
+# Device Tree for 10or G (
 
-Kernel source: "https://github.com/Jebaitedneko/android_kernel_10or_G-4.9.git"
 ==================================
 ## Device specifications
 
